@@ -43,12 +43,6 @@ int solve(){
 	memset(dp,-1,sizeof dp);
 	cin>>n;
 	for(int i=0;i<n;i++)cin>>v[i];
-
-
-		cout<<"starting from 1 : "<<fi(1,1)<<endl;
-		cout<<"starting from 2 : "<<fi(1,2)<<endl;
-		cout<<"starting from 3 : "<<fi(1,3)<<endl;
-		cout<<"starting from 4 : "<<fi(1,4)<<endl;
 	return min({
 		fi(1,1),
 		fi(1,2),
@@ -56,15 +50,6 @@ int solve(){
 		fi(1,4)
 	}
 	);
-
-
-	// return fi(1,1);
-
-	//1 - starting value of the vector
-	//2 - prev value of the vector
-	//3 - starting value of the alien node
-
-	
 }
 int main(){
 	int t;
