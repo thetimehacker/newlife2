@@ -1,0 +1,14 @@
+[
+	{
+		"test": "pale\nple\n"
+	},
+	{
+		"test": "pale\nbale\n"
+	},
+	{
+		"test": "pale\nlep\n"
+	},
+	{
+		"test": "pake \nbale\n"
+	}
+]

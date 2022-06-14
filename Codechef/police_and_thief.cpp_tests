@@ -1,0 +1,5 @@
+[
+	{
+		"test": "#include<bits/stdc++.h>\nusing namespace std;\nvoid solve(){\n\tint a,b;\n\tcin>>a>>b;\n\tcout<<abs(a-b);\n}\nint main()\n{\n\tios_base::sync_with_stdio(false);\n\tcin.tie(NULL);\n\tint t;\n\tcin>>t;\n\twhile(t--){\n\t\tsolve();\n\t}\n}"
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"test": "aabacbebebe\n3\n"
+	},
+	{
+		"test": "abcabcabc\n4\n"
+	},
+	{
+		"test": "abcabcccab\n2\n"
+	}
+]

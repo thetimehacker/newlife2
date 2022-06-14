@@ -1,0 +1,93 @@
+[
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "47\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "12\n"
+	},
+	{
+		"correct_answers":
+		[
+			"NO"
+		],
+		"test": "13\n"
+	},
+	{
+		"correct_answers":
+		[
+			"NO"
+		],
+		"test": "78\n"
+	},
+	{
+		"correct_answers":
+		[
+			"NO"
+		],
+		"test": "1\n"
+	},
+	{
+		"correct_answers":
+		[
+			"NO"
+		],
+		"test": "0\n"
+	},
+	{
+		"correct_answers":
+		[
+			"NO"
+		],
+		"test": "2\n"
+	},
+	{
+		"correct_answers":
+		[
+			"NO"
+		],
+		"test": "3\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "21\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "42\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "1548\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "1544\n"
+	}
+]
